@@ -1,7 +1,7 @@
 from flask import Flask
 from waitress import serve
 
-app = Flask('name')
+app = Flask(__name__)
 STUDENTID = 26
 
 @app.route('/')
