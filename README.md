@@ -19,6 +19,6 @@ write in cmd: flask run
  
 you will see message where flask running on like 'Running on http://127.0.0.1:5000/'
  
-open browser using this link+'/api/v1/hello-world-10'
+open browser using this link+'/api/v1/hello-world-26'
  
 Now you have simple app in flask.
